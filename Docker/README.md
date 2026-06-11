@@ -1,18 +1,13 @@
 # Docker Learning Series
 
-A complete Docker learning journey from basics to advanced concepts.
+## Day 1 - Introduction to Docker
 
-## Topics Covered
+![Docker Introduction](Day-01-Docker-Introduction.png)
 
-| Day | Topic |
-|------|---------|
-| Day 1 | Introduction to Docker |
-| Day 2 | Docker Architecture |
-| Day 3 | Docker Installation |
-| Day 4 | Docker Images |
-| Day 5 | Docker Containers |
-| Day 6 | Dockerfile |
-| Day 7 | Docker Volumes |
-| Day 8 | Docker Networking |
-| Day 9 | Docker Compose |
-| Day 10 | Docker Project |
+---
+
+## Day 2 - Docker Architecture
+
+![Docker Architecture](Day-02-Docker-Architecture.png)
+
+---
