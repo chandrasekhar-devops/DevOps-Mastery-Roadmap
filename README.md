@@ -1,8 +1,8 @@
 # DevOps Mastery Roadmap
 
-A structured collection of DevOps, Cloud, SRE, and Platform Engineering concepts with visual notes, cheat sheets, and hands-on projects.
+A structured collection of DevOps, Cloud, SRE, and Platform Engineering learning resources.
 
-## Learning Roadmap
+## Learning Path
 
 1. Linux
 2. Networking
@@ -19,34 +19,11 @@ A structured collection of DevOps, Cloud, SRE, and Platform Engineering concepts
 13. Security
 14. Projects
 
-## Repository Structure
+## About This Repository
 
-📂 Linux
-
-📂 Networking
-
-📂 Git-GitHub
-
-📂 Shell-Scripting
-
-📂 Docker
-
-📂 Kubernetes
-
-📂 AWS
-
-📂 Terraform
-
-📂 Jenkins
-
-📂 ArgoCD
-
-📂 Monitoring
-
-📂 Logging
-
-📂 Security
-
-📂 Projects
-
-📂 100-Days-DevOps
+Each topic contains:
+- Day-wise visual notes
+- Architecture diagrams
+- Cheat sheets
+- Practical examples
+- Projects
