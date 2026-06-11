@@ -1,8 +1,8 @@
 # DevOps Mastery Roadmap
 
-Welcome to my DevOps Learning Journey.
+A structured collection of DevOps, Cloud, SRE, and Platform Engineering concepts with visual notes, cheat sheets, and hands-on projects.
 
-## Learning Path
+## Learning Roadmap
 
 1. Linux
 2. Networking
@@ -17,18 +17,36 @@ Welcome to my DevOps Learning Journey.
 11. Monitoring
 12. Logging
 13. Security
-14. Real-World Projects
+14. Projects
 
-## Topics
+## Repository Structure
 
-- Linux
-- Networking
-- Git & GitHub
-- Shell Scripting
-- Docker
-- Kubernetes
-- AWS
-- Terraform
-- Jenkins
-- Monitoring
-- Projects
+📂 Linux
+
+📂 Networking
+
+📂 Git-GitHub
+
+📂 Shell-Scripting
+
+📂 Docker
+
+📂 Kubernetes
+
+📂 AWS
+
+📂 Terraform
+
+📂 Jenkins
+
+📂 ArgoCD
+
+📂 Monitoring
+
+📂 Logging
+
+📂 Security
+
+📂 Projects
+
+📂 100-Days-DevOps
