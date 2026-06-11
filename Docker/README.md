@@ -87,7 +87,7 @@
 ---
 ## Day 17 - Docker Cheat Sheet
 
-![Docker Cheat Sheet](Day-17-Docker-Swarm.png)
+![Docker Cheat Sheet](Day-17-Cheat-Sheet.png)
 
 ---
 
@@ -98,7 +98,7 @@
 ---
 ## Day 19 - Docker Interview Questions
 
-![Docker Interview Questions](Day-19-Docker-Interview Questions.png)
+![Docker Interview Questions](Day-19-Docker-Interview-Questions.png)
 
 ---
 ## Day 20 - Docker Interview Questions Part-2
