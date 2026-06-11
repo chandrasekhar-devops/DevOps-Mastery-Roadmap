@@ -37,4 +37,53 @@
 
 ---
 
+## Day 8 - Docker Networking
+
+![Docker Networking](Day-08-Docker-Networking.png)
+
 ---
+
+## Day 9 - Docker Compose
+
+![Docker Compose](Day-09-Docker-Compose.png)
+
+---
+## Day 10 - Docker File
+
+![Docker File](Day-10-Docker-DockerFile.png)
+
+---
+## Day 11 - Docker Registry
+
+![Docker Registry](Day-11-Docker-Registry.png)
+
+---
+
+## Day 12 - Docker Multi Stage Builds
+
+![Docker Multi Stage Builds](Day-12-Docker-Multi-Stage-Builds.png)
+
+---
+## Day 13 - Docker Container Security
+
+![Docker Container Security](Day-13-Docker-Container-Security.png)
+
+---
+## Day 14 - Docker Swarm
+
+![Docker Swarm](Day-14-Docker-Swarm.png)
+
+---
+
+## Day 15 - Docker Container vs Virtual Machines
+
+![Docker Container vs Virtual Machines](Day-02-Docker-Container-vs-Virtual-Machines.png)
+
+---
+## Day 3 - Docker Architecture
+
+![Docker Architecture](Day-03-Docker-Architecture.png)
+
+---
+
+------
