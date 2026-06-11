@@ -75,15 +75,45 @@
 
 ---
 
-## Day 15 - Docker Container vs Virtual Machines
+## Day 15 - Docker Best Practices
 
-![Docker Container vs Virtual Machines](Day-02-Docker-Container-vs-Virtual-Machines.png)
-
----
-## Day 3 - Docker Architecture
-
-![Docker Architecture](Day-03-Docker-Architecture.png)
+![Docker Best Practices](Day-15-Docker-Best-Practices.png)
 
 ---
+## Day 16 - Docker Real World Projects
 
+![Docker Real World Projects](Day-16-Docker-Real-World-Projects.png)
+
+---
+## Day 17 - Docker Cheat Sheet
+
+![Docker Cheat Sheet](Day-17-Docker-Swarm.png)
+
+---
+
+## Day 18 - Docker TroubleShooting
+
+![Docker TroubleShooting](Day-18-Docker-Trouble-Shooting.png)
+
+---
+## Day 19 - Docker Interview Questions
+
+![Docker Interview Questions](Day-19-Docker-Interview Questions.png)
+
+---
+## Day 20 - Docker Interview Questions Part-2
+
+![Docker Interview Questions Part-2](Day-20-Docker-Interview-Questions.png)
+
+---
+## Day 21 - Docker Production Checklist
+
+![Docker Production Checklist](Day-21-Docker-Production-Checklist.png)
+
+---
+
+## Day 22 - Docker to Kuberenetes Road Map
+![Docker to Kuberenetes Road Map](Day-22-Docker-to-Kuberenetes.png)
+
+---
 ------
