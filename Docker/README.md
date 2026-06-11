@@ -8,6 +8,6 @@
 
 ## Day 2 - Docker Architecture
 
-![Docker Architecture](Day-02-Docker-Architecture.png)
+![Docker Architecture](Day-02-Docker-Container-vs-Virtual Machines.png)
 
 ---
