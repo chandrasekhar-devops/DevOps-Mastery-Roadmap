@@ -87,7 +87,7 @@
 ---
 ## Day 17 - Docker Cheat Sheet
 
-![Docker Cheat Sheet](Day-17-Cheat-Sheet.png)
+![Docker Cheat Sheet](Day-17-Docker-Cheat-Sheet.png)
 
 ---
 
