@@ -1,6 +1,6 @@
 # Docker Learning Series
 
-## Day 1 - Introduction to AWS
+## Day 1 - Introduction to Cloud Computing and AWS
 
 ![AWS Introduction](Day-01-AWS-Introduction.png)
 
@@ -11,7 +11,7 @@
 ![AWS Global Infrastruture](Day-02-AWS-Global-Infrastructure.png)
 
 ---
-## Day 3 - AWS IAM
+## Day 3 - AWS IAM(Identity and Access Management)
 
 ![AWS IAM](Day-03-AWS-IAM.png)
 
@@ -21,34 +21,34 @@
 ![AWS Billing and Pricing](Day-04-AWS-Billing-and-Pricing.png)
 
 ---
-## Day 5 - AWS EC2
+## Day 5 - Amazon EC2(Elastic Cloud Compute)
 
 ![AWS EC2](Day-05-AWS-EC2.png)
 
 ---
-## Day 6 - AWS EBS
+## Day 6 - Amazon EBS(Elastic Block Store)
 
 ![AWS EBS](Day-06-AWS-EBS.png)
 
 ---
-## Day 7 - AWS IAM
+## Day 7 - Amazon IAM(Indentity and Access Management)
 
 ![AWS IAM](Day-07-AWS-IAM.png)
 
 ---
 
-## Day 8 - AWS S3
+## Day 8 - Amazon S3(Simple Storage Cloud)
 
 ![AWS S3](Day-08-AWS-S3.png)
 
 ---
 
-## Day 9 - AWS S3 Storage Classes
+## Day 9 - Amazon S3 Storage Classes
 
 ![AWS S3 Storage Classes](Day-09-AWS-S3-Storage-Classes.png)
 
 ---
-## Day 10 - AWS CloudFront
+## Day 10 - AMAZON CLOUDFRONT
 
 ![AWS CloudFront](Day-10-AWS-CloudFront.png)
 
