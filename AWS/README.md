@@ -8,7 +8,7 @@
 
 ## Day 2 - AWS Global Infrastrture
 
-![AWS Global Infrastruture](Day-02-AWS-Global-Infrastruture.png)
+![AWS Global Infrastruture](Day-02-AWS-Global-Infrastructure.png)
 
 ---
 ## Day 3 - AWS IAM
